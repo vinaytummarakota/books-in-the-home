@@ -19,7 +19,7 @@ All effect size calculations are described from start-to-finish in `coded_effect
 
 ## Data Dictionary
 
-The spreadsheet `code_effect_sizes.xlsx` contains the effect sizes used in the meta-analysis. This spreadsheet contains the following columns:
+The spreadsheet `coded_effect_sizes.xlsx` contains the effect sizes used in the meta-analysis. This spreadsheet contains the following columns:
 
 -   `study`: String, the author(s) of the study along with the year of publication.
 -   `int_length_in_summers`: Integer, the length of the intervention as a function of the \# of summers that it took place (as the vast majority of interventions were designed to curb summer learning loss).
@@ -40,4 +40,4 @@ The spreadsheet `code_effect_sizes.xlsx` contains the effect sizes used in the m
 
 ## Contact Information
 
-If you identify any problems with this meta-analysis, feel free to either leave a comment below the corresponding Substack article or send an email to [unboxingpolitics\@gmail.com](mailto:unboxingpolitics@gmail.com){.email}. Any and all constructive feedback is welcomed!
+If you identify any problems with this meta-analysis, feel free to either leave a comment below the corresponding Substack article or send an email to [unboxingpolitics\@gmail.com](mailto:unboxingpolitics@gmail.com). Any and all constructive feedback is welcomed!
