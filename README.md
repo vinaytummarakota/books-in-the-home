@@ -1,6 +1,6 @@
 # "Books in the Home" Meta-Analysis
 
-This living meta-analysis estimates the causal impact of distributing books to children on their reading achievement and oral reading fluency. It is featured in my Substack article, "Do books in the home really improve academic achievement?".
+This living meta-analysis estimates the causal impact of distributing books to children on their reading achievement and oral reading fluency. It is featured in my Substack [article](https://unboxingpolitics.substack.com/p/do-books-in-the-home-really-improve), "Do books in the home really improve academic achievement?".
 
 ## Inclusion Criteria
 
@@ -40,4 +40,4 @@ The spreadsheet `coded_effect_sizes.xlsx` contains the effect sizes used in the 
 
 ## Contact Information
 
-If you identify any problems with this meta-analysis, feel free to either leave a comment below the corresponding Substack article or send an email to [unboxingpolitics\@gmail.com](mailto:unboxingpolitics@gmail.com). Any and all constructive feedback is welcomed!
+If you identify any problems with this meta-analysis, feel free to either leave a comment below the corresponding Substack [article](https://unboxingpolitics.substack.com/p/do-books-in-the-home-really-improve) or send an email to [unboxingpolitics\@gmail.com](mailto:unboxingpolitics@gmail.com). Any and all constructive feedback is welcomed!
